@@ -1,0 +1,6 @@
+tensorflow==1.14.0
+keras==2.3.1
+opencv-python==4.1.1.26
+pandas==0.25.3
+h5py==2.10.0
+imutils==0.5.3
